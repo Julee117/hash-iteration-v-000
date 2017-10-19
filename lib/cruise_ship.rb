@@ -11,5 +11,5 @@ def select_winner(passengers)
     if value.start_with?("A")
       return value
     end
-  end 
+  end
 end
